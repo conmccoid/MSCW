@@ -4,6 +4,10 @@
 
 To prepare and support postdocs and grad students in math and stats for careers in academia and industry through lectures, workshops, and events focused on the career planning, job search, application, and interview processes.
 
+## Join the Workshop
+
+[Click here to join our Teams channel!](https://teams.microsoft.com/l/channel/19%3A4UORDlcqyXdOYdCJToVB8HTd0uyQzQsjZnY8g1TGTA01%40thread.tacv2/?groupId=c0c1133b-e124-4f51-b686-2e637d7db532)
+
 ## Schedule of Events
 
 1. Resume / Curriculum Vitae (CV)
