@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-To prepare and support postdocs and grad students in math and stats for careers in academia and industroy through lectures, workshops, and events focused on the career planning, job search, application, and interview processes.
+To prepare and support postdocs and grad students in math and stats for careers in academia and industry through lectures, workshops, and events focused on the career planning, job search, application, and interview processes.
 
 ## Schedule of Events
 
